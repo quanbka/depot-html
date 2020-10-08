@@ -1731,68 +1731,7 @@
 											</div>
 										</div>
 									</div>
-									<div class="mkd-row-grid-section">
-										<div class="vc_row wpb_row vc_row-fluid vc_custom_1487777438064">
-											<div class="wpb_column vc_column_container vc_col-sm-12">
-												<div class="vc_column-inner">
-													<div class="wpb_wrapper">
-														<div class="mkd-clients-carousel-holder  mkd-cc-hover-roll-over">
-															<div class="mkd-cc-inner" data-number-of-items="5" data-autoplay="no" data-autoplay-timeout="5000" data-loop="no" data-speed="650">
-																<div class="mkd-cc-item">
-																	<a itemprop="url" class="mkd-cc-link" href="#" target="_self">
-																		<img itemprop="image" class="mkd-cc-image" src="/wp-content/uploads/2017/01/client-1.png" alt="a" />
-																		<img itemprop="image" class="mkd-cc-hover-image" src="/wp-content/uploads/2017/01/client-1h.png" alt="a" />
-																	</a>
-																</div>
-																<div class="mkd-cc-item">
-																	<a itemprop="url" class="mkd-cc-link" href="#" target="_self">
-																		<img itemprop="image" class="mkd-cc-image" src="/wp-content/uploads/2017/01/client-2.png" alt="a" />
-																		<img itemprop="image" class="mkd-cc-hover-image" src="/wp-content/uploads/2017/01/client-2h.png" alt="a" />
-																	</a>
-																</div>
-																<div class="mkd-cc-item">
-																	<a itemprop="url" class="mkd-cc-link" href="#" target="_self">
-																		<img itemprop="image" class="mkd-cc-image" src="/wp-content/uploads/2017/01/client-3.png" alt="a" />
-																		<img itemprop="image" class="mkd-cc-hover-image" src="/wp-content/uploads/2017/01/client-3h.png" alt="a" />
-																	</a>
-																</div>
-																<div class="mkd-cc-item">
-																	<a itemprop="url" class="mkd-cc-link" href="#" target="_self">
-																		<img itemprop="image" class="mkd-cc-image" src="/wp-content/uploads/2017/01/client-4.png" alt="a" />
-																		<img itemprop="image" class="mkd-cc-hover-image" src="/wp-content/uploads/2017/01/client-4h.png" alt="a" />
-																	</a>
-																</div>
-																<div class="mkd-cc-item">
-																	<a itemprop="url" class="mkd-cc-link" href="#" target="_self">
-																		<img itemprop="image" class="mkd-cc-image" src="/wp-content/uploads/2017/01/client-5.png" alt="a" />
-																		<img itemprop="image" class="mkd-cc-hover-image" src="/wp-content/uploads/2017/01/client-5h.png" alt="a" />
-																	</a>
-																</div>
-																<div class="mkd-cc-item">
-																	<a itemprop="url" class="mkd-cc-link" href="#" target="_self">
-																		<img itemprop="image" class="mkd-cc-image" src="/wp-content/uploads/2017/01/client-6.png" alt="a" />
-																		<img itemprop="image" class="mkd-cc-hover-image" src="/wp-content/uploads/2017/01/client-6h.png" alt="a" />
-																	</a>
-																</div>
-																<div class="mkd-cc-item">
-																	<a itemprop="url" class="mkd-cc-link" href="#" target="_self">
-																		<img itemprop="image" class="mkd-cc-image" src="/wp-content/uploads/2017/01/client-7.png" alt="a" />
-																		<img itemprop="image" class="mkd-cc-hover-image" src="/wp-content/uploads/2017/01/client-7h.png" alt="a" />
-																	</a>
-																</div>
-																<div class="mkd-cc-item">
-																	<a itemprop="url" class="mkd-cc-link" href="#" target="_self">
-																		<img itemprop="image" class="mkd-cc-image" src="/wp-content/uploads/2017/01/client-8.png" alt="a" />
-																		<img itemprop="image" class="mkd-cc-hover-image" src="/wp-content/uploads/2017/01/client-8h.png" alt="a" />
-																	</a>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
+									
 								</div>
 							</div>
 						</div>
