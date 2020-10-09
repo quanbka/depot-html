@@ -56,7 +56,7 @@
         }
     </style>
     <link rel='stylesheet' id='depot-mikado-default-style-css' href='/wp-content/themes/depot/style.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='depot-mikado-modules-css' href='/wp-content/themes/depot/assets/css/modules.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='depot-mikado-modules-css' href='/wp-content/themes/depot/assets/css/modules-home.min.css' type='text/css' media='all' />
     <style id='depot-mikado-modules-inline-css' type='text/css'>
         /* generated in /home/qodeinteractive/depot/public_html/wp-content/themes/depot/framework/modules/footer/functions.php depot_mikado_footer_page_styles function */
         body.page-id-19 footer.mkd-page-footer .mkd-footer-top-holder {
@@ -822,7 +822,6 @@
 															data-480-600="0px" data-480="0px">
 															<div class="mkd-eh-item-inner">
 																<div class="mkd-eh-item-content " style="padding: 0 0 30px">
-																	<link href="https://fonts.googleapis.com/css?family=Catamaran:600%2C300" rel="stylesheet" property="stylesheet" type="text/css" media="all">
 																	<div id="rev_slider_1_2_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery"
 																		style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
 
