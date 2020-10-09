@@ -9,6 +9,8 @@
         document.documentElement.className = document.documentElement.className + ' yes-js js_active js'
     </script>
     <title>Depot &#8211; A Contemporary Theme for eCommerce</title>
+    <link rel='stylesheet' id='depot-mikado-google-fonts-css' href='https://fonts.googleapis.com/css?family=Catamaran%3A300%2C400%7CMontserrat%3A300%2C400&#038;subset=latin-ext&#038;ver=1.0.0' type='text/css' media='all' />
+
 
     <style type="text/css">
         img.wp-smiley,
@@ -906,7 +908,7 @@
         																			<div class="mkd-plc-text-outer">
         																				<div class="mkd-plc-text-inner">
 
-        																					
+
         																					<div class="clear"></div>
         																				</div>
         																			</div>
