@@ -9,23 +9,6 @@
         document.documentElement.className = document.documentElement.className + ' yes-js js_active js'
     </script>
     <title>Depot &#8211; A Contemporary Theme for eCommerce</title>
-    <script type="application/javascript">
-        var MikadoAjaxUrl = "/wp-admin/admin-ajax.php"
-    </script>
-
-    <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
-        //<![CDATA[
-        var gtm4wp_datalayer_name = "dataLayer";
-        var dataLayer = dataLayer || [];
-        //]]>
-    </script>
-    <link rel='dns-prefetch' href='//export.qodethemes.com' />
-    <link rel='dns-prefetch' href='//maps.googleapis.com' />
-    <link rel='dns-prefetch' href='//static.zdassets.com' />
-    <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-    <link rel='dns-prefetch' href='//s.w.org' />
-    <link rel="alternate" type="application/rss+xml" title="Depot &raquo; Feed" href="/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Depot &raquo; Comments Feed" href="/comments/feed/" />
 
     <style type="text/css">
         img.wp-smiley,
@@ -46,18 +29,10 @@
     <link rel='stylesheet' id='jquery-selectBox-css' href='/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css' type='text/css' media='all' />
     <link rel='stylesheet' id='yith-wcwl-font-awesome-css' href='/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='yith-wcwl-main-css' href='/wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css' type='text/css' media='all' />
-    <style id='yith-wcwl-main-inline-css' type='text/css'>
-        .wishlist_table .add_to_cart,
-        a.add_to_wishlist.button.alt {
-            border-radius: 16px;
-            -moz-border-radius: 16px;
-            -webkit-border-radius: 16px;
-        }
-    </style>
+
     <link rel='stylesheet' id='contact-form-7-css' href='/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
     <link rel='stylesheet' id='mkd_membership_style-css' href='/wp-content/plugins/mikado-membership/assets/css/membership.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='mkd_membership_responsive_style-css' href='/wp-content/plugins/mikado-membership/assets/css/membership-responsive.min.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='rabbit_css-css' href='https://export.qodethemes.com/_toolbar/assets/css/rbt-modules.css?ver=5.2.7' type='text/css' media='all' />
     <link rel='stylesheet' id='rs-plugin-settings-css' href='/wp-content/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
     <style id='rs-plugin-settings-inline-css' type='text/css'>
         #rs-demo-id {}
@@ -128,7 +103,6 @@
             margin-right: 0;
         }
     </style>
-    <link rel='stylesheet' id='mkd-font-awesome-css' href='/wp-content/themes/depot/assets/css/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='mkd-font-elegant-css' href='/wp-content/themes/depot/assets/css/elegant-icons/style.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='mkd-ion-icons-css' href='/wp-content/themes/depot/assets/css/ion-icons/css/ionicons.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='mkd-linea-icons-css' href='/wp-content/themes/depot/assets/css/linea-icons/style.css' type='text/css' media='all' />
@@ -141,182 +115,14 @@
     <link rel='stylesheet' id='depot-mikado-modules-responsive-css' href='/wp-content/themes/depot/assets/css/modules-responsive.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='depot-mikado-style-dynamic-responsive-css' href='/wp-content/themes/depot/assets/css/style_dynamic_responsive.css' type='text/css' media='all' />
     <link rel='stylesheet' id='js_composer_front-css' href='/wp-content/plugins/js_composer/assets/css/js_composer.min.css' type='text/css' media='all' />
-    <style id='js_composer_front-inline-css' type='text/css'>
-        .vc_custom_1486545532427 {
-            padding-bottom: 40px !important;
-        }
-    </style>
-    <link rel='stylesheet' id='depot-mikado-google-fonts-css' href='https://fonts.googleapis.com/css?family=Catamaran%3A300%2C400%7CMontserrat%3A300%2C400&#038;subset=latin-ext&#038;ver=1.0.0' type='text/css' media='all' />
-    <!--[if lt IE 9]>
-<link rel='stylesheet' id='vc_lte_ie9-css'  href='/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css' type='text/css' media='screen' />
-<![endif]-->
-    <link rel='stylesheet' id='qode-zendesk-chat-css' href='/wp-content/plugins/qode-zendesk-chat//assets/main.css' type='text/css' media='all' />
+
     <script type='text/javascript' src='/wp-includes/js/jquery/jquery.js'></script>
     <script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js'></script>
     <script type='text/javascript' src='/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
     <script type='text/javascript' src='/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'></script>
     <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var wc_add_to_cart_params = {
-            "ajax_url": "\/wp-admin\/admin-ajax.php",
-            "wc_ajax_url": "\/?wc-ajax=%%endpoint%%",
-            "i18n_view_cart": "View cart",
-            "cart_url": "https:\/\/depot.qodeinteractive.com\/cart\/",
-            "is_cart": "",
-            "cart_redirect_after_add": "no"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js'></script>
-    <script type='text/javascript' src='/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js'></script>
-    <script type='text/javascript' src='/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js'></script>
-    <script type='text/javascript'>
-        var mejsL10n = {
-            "language": "en",
-            "strings": {
-                "mejs.install-flash": "You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/",
-                "mejs.fullscreen-off": "Turn off Fullscreen",
-                "mejs.fullscreen-on": "Go Fullscreen",
-                "mejs.download-video": "Download Video",
-                "mejs.fullscreen": "Fullscreen",
-                "mejs.time-jump-forward": ["Jump forward 1 second", "Jump forward %1 seconds"],
-                "mejs.loop": "Toggle Loop",
-                "mejs.play": "Play",
-                "mejs.pause": "Pause",
-                "mejs.close": "Close",
-                "mejs.time-slider": "Time Slider",
-                "mejs.time-help-text": "Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.",
-                "mejs.time-skip-back": ["Skip back 1 second", "Skip back %1 seconds"],
-                "mejs.captions-subtitles": "Captions\/Subtitles",
-                "mejs.captions-chapters": "Chapters",
-                "mejs.none": "None",
-                "mejs.mute-toggle": "Mute Toggle",
-                "mejs.volume-help-text": "Use Up\/Down Arrow keys to increase or decrease volume.",
-                "mejs.unmute": "Unmute",
-                "mejs.mute": "Mute",
-                "mejs.volume-slider": "Volume Slider",
-                "mejs.video-player": "Video Player",
-                "mejs.audio-player": "Audio Player",
-                "mejs.ad-skip": "Skip ad",
-                "mejs.ad-skip-info": ["Skip in 1 second", "Skip in %1 seconds"],
-                "mejs.source-chooser": "Source Chooser",
-                "mejs.stop": "Stop",
-                "mejs.speed-rate": "Speed Rate",
-                "mejs.live-broadcast": "Live Broadcast",
-                "mejs.afrikaans": "Afrikaans",
-                "mejs.albanian": "Albanian",
-                "mejs.arabic": "Arabic",
-                "mejs.belarusian": "Belarusian",
-                "mejs.bulgarian": "Bulgarian",
-                "mejs.catalan": "Catalan",
-                "mejs.chinese": "Chinese",
-                "mejs.chinese-simplified": "Chinese (Simplified)",
-                "mejs.chinese-traditional": "Chinese (Traditional)",
-                "mejs.croatian": "Croatian",
-                "mejs.czech": "Czech",
-                "mejs.danish": "Danish",
-                "mejs.dutch": "Dutch",
-                "mejs.english": "English",
-                "mejs.estonian": "Estonian",
-                "mejs.filipino": "Filipino",
-                "mejs.finnish": "Finnish",
-                "mejs.french": "French",
-                "mejs.galician": "Galician",
-                "mejs.german": "German",
-                "mejs.greek": "Greek",
-                "mejs.haitian-creole": "Haitian Creole",
-                "mejs.hebrew": "Hebrew",
-                "mejs.hindi": "Hindi",
-                "mejs.hungarian": "Hungarian",
-                "mejs.icelandic": "Icelandic",
-                "mejs.indonesian": "Indonesian",
-                "mejs.irish": "Irish",
-                "mejs.italian": "Italian",
-                "mejs.japanese": "Japanese",
-                "mejs.korean": "Korean",
-                "mejs.latvian": "Latvian",
-                "mejs.lithuanian": "Lithuanian",
-                "mejs.macedonian": "Macedonian",
-                "mejs.malay": "Malay",
-                "mejs.maltese": "Maltese",
-                "mejs.norwegian": "Norwegian",
-                "mejs.persian": "Persian",
-                "mejs.polish": "Polish",
-                "mejs.portuguese": "Portuguese",
-                "mejs.romanian": "Romanian",
-                "mejs.russian": "Russian",
-                "mejs.serbian": "Serbian",
-                "mejs.slovak": "Slovak",
-                "mejs.slovenian": "Slovenian",
-                "mejs.spanish": "Spanish",
-                "mejs.swahili": "Swahili",
-                "mejs.swedish": "Swedish",
-                "mejs.tagalog": "Tagalog",
-                "mejs.thai": "Thai",
-                "mejs.turkish": "Turkish",
-                "mejs.ukrainian": "Ukrainian",
-                "mejs.vietnamese": "Vietnamese",
-                "mejs.welsh": "Welsh",
-                "mejs.yiddish": "Yiddish"
-            }
-        };
-    </script>
     <script type='text/javascript' src='/wp-includes/js/mediaelement/mediaelement-and-player.min.js'></script>
     <script type='text/javascript' src='/wp-includes/js/mediaelement/mediaelement-migrate.min.js'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var _wpmejsSettings = {
-            "pluginPath": "\/wp-includes\/js\/mediaelement\/",
-            "classPrefix": "mejs-",
-            "stretching": "responsive"
-        };
-        /* ]]> */
-    </script>
-    <link rel='https://api.w.org/' href='/wp-json/' />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" />
-    <meta name="generator" content="WordPress 5.2.7" />
-    <meta name="generator" content="WooCommerce 3.6.4" />
-    <link rel="canonical" href="/" />
-    <link rel='shortlink' href='/' />
-    <link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdepot.qodeinteractive.com%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdepot.qodeinteractive.com%2F&#038;format=xml" />
-
-    <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
-        //<![CDATA[
-        var dataLayer_content = {
-            "pagePostType": "frontpage",
-            "pagePostType2": "single-page",
-            "pagePostAuthor": "Billy"
-        };
-        dataLayer.push(dataLayer_content); //]]>
-    </script>
-    <script data-cfasync="false">
-        //<![CDATA[
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                '//www.googletagmanager.com/gtm.' + 'js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-KTQ2BTD'); //]]>
-    </script>
-
-
-    <meta property="og:url" content="/" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="Main Home" />
-    <meta property="og:description"
-        content="THINK DIFFERENT. Depot is a unique &amp; captivating theme designed specifically for all types of shops and online stores. PREMIUM COMFORT. One-click import feature lets you import the complete Depot demo content with a single mouse click. CONTEMPORARY DESIGN. A [...]" />
-    <meta property="og:image" content="/wp-content/uploads/2019/05/open_graph.jpg" />
     <noscript>
         <style>
             .woocommerce-product-gallery {
@@ -1157,17 +963,7 @@
 																			</script>
 																			<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
 																		</div>
-																		<script>
-																			var htmlDiv = document.getElementById("rs-plugin-settings-inline-css");
-																			var htmlDivCss = "";
-																			if (htmlDiv) {
-																				htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-																			} else {
-																				var htmlDiv = document.createElement("div");
-																				htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
-																				document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
-																			}
-																		</script>
+                                                                        <!-- Slide header -->
 																		<script type="text/javascript">
 
 
@@ -1278,7 +1074,8 @@
 																					});
 																				}
 																			}); /*ready*/
-																		</script>
+                                                                        </script>
+                                                                        <!-- Change slide header -->
 																		<script>
 																			var htmlDivCss = unescape(
 																				"%0A.mkd-depot-lines%20.tp-bullet%20%7B%0A%20%20%20%20position%3Aabsolute%3B%0A%09width%3A22px%3B%0A%09height%3A10px%3B%0A%20%20%20%20background-color%3A%20transparent%3B%0A%09cursor%3A%20pointer%3B%0A%7D%0A%0A.mkd-depot-lines%20.tp-bullet%3Aafter%20%7B%0A%09content%3A%27%27%3B%0A%20%20%20%20position%3Aabsolute%3B%0A%20%20%20%20top%3A2px%3B%0A%20%20%20%20left%3A0%3B%0A%20%20%20%20border-bottom%3A2px%20solid%20%23999%3B%0A%20%20%20%20height%3A0%3B%0A%20%20%20%20width%3A22px%3B%0A%20%20%20%20-webkit-transition%3A%20all%20.15s%3B%0A%20%20%20%20transition%3A%20all%20.15s%3B%0A%7D%0A%0A.mkd-depot-lines%20.mkd-depot-rev-slide-number%20%7B%0A%20%20%20%20position%3A%20absolute%3B%0A%20%20%20%20left%3A%20-25px%3B%0A%20%20%20%20top%3A%20-10px%3B%0A%20%20%20%20font-family%3A%20%27Catamaran%27%2C%20sans-serif%3B%0A%20%20%20%20font-size%3A%2016px%3B%0A%20%20%20%20font-weight%3A%20600%3B%0A%20%20%20%20color%3A%23999%3B%0A%20%20%20%20-webkit-transition%3A%20color%20.2s%3B%0A%20%20%20%20transition%3A%20color%20.2s%3B%0A%7D%0A%0A.mkd-depot-lines%20.tp-bullet%3Ahover%2C%0A.mkd-depot-lines%20.tp-bullet.selected%20%7B%0A%20%20%20%20width%3A69px%3B%0A%7D%0A%0A.mkd-depot-lines%20.tp-bullet%3Ahover%20.mkd-depot-rev-slide-number%2C%0A.mkd-depot-lines%20.tp-bullet.selected%20%20.mkd-depot-rev-slide-number%7B%0A%20%20%20%20color%3A%20%23080808%3B%0A%7D%0A%0A.mkd-depot-lines%20.tp-bullet%3Ahover%3Aafter%2C%0A.mkd-depot-lines%20.tp-bullet.selected%3Aafter%20%7B%20%0A%20%20%20%20border-color%3A%20%23080808%3B%0A%20%20%20%20width%3A69px%3B%0A%20%20%20%20-webkit-transition%3A%20all%20.25s%3B%0A%20%20%20%20transition%3A%20all%20.25s%3B%0A%7D%0A%0A%40media%20only%20screen%20and%20%28max-width%3A%201024px%29%20%7B%0A%20%20.mkd-depot-lines%20%7B%20%20%20%20%0A%20%20%20%20-webkit-transform%3A%20rotate%2890deg%29%20translateY%286px%29%20%21important%3B%20%20%0A%20%20%20%20transform%3A%20rotate%2890deg%29%20translateY%286px%29%20%21important%3B%20%20%20%20%0A%20%20%20%20top%3A%20auto%20%21important%3B%20%20%20%20%0A%20%20%20%20left%3A%2050%25%20%21important%3B%20%20%20%20%0A%20%20%20%20bottom%3A%20-20px%20%21important%3B%0A%20%20%7D%0A%20%20.mkd-depot-lines%20.tp-bullet%20%7B%20%20%20%20%0A%20%20%20%20position%3A%20static%20%21important%3B%0A%20%20%20%20margin%3A%2010px%20%21important%3B%0A%20%20%20%20height%3A%2012px%20%21important%3B%20%20%20%20%0A%20%20%20%20width%3A%2012px%20%21important%3B%0A%20%20%20%20border-radius%3A%2050%25%3B%20%20%0A%20%20%20%20-webkit-transform%3A%20scale%28.75%29%3B%20%0A%20%20%20%20transform%3A%20scale%28.75%29%3B%20%20%20%20%0A%20%20%20%20background-color%3A%20%23080808%3B%0A%20%20%20%20-webkit-transition%3A%20all%20.4s%20ease%3B%0A%20%20%20%20transition%3A%20all%20.4s%20ease%3B%0A%20%20%7D%0A%20%20.mkd-depot-lines%20.tp-bullet%3Ahover%2C%20.mkd-depot-lines%20.tp-bullet.selected%20%7B%20%20%20%20%0A%20%20%20%20-webkit-transform%3A%20scale%281%29%3B%0A%20%20%20%20transform%3A%20scale%281%29%3B%0A%20%20%7D%0A%20%20.mkd-depot-lines%20.tp-bullet%3Aafter%20%7B%20%20%20%20%0A%20%20%20%20display%3A%20none%3B%0A%20%20%7D%0A%20%20.mkd-depot-rev-slide-number%20%7B%20%20%20%20%0A%20%20%20%20display%3A%20none%3B%0A%20%20%7D%0A%7D%0A%0A%0A"
@@ -1846,172 +1643,6 @@
         </div>
     </div>
     <div class="rbt-toolbar" data-theme="Depot" data-featured="" data-button-position="60%" data-button-horizontal="right" data-button-alt="no"></div>
-
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KTQ2BTD" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-    <div id="yith-quick-view-modal">
-        <div class="yith-quick-view-overlay"></div>
-        <div class="yith-wcqv-wrapper">
-            <div class="yith-wcqv-main">
-                <div class="yith-wcqv-head">
-                    <a href="#" id="yith-quick-view-close" class="yith-wcqv-close">X</a>
-                </div>
-                <div id="yith-quick-view-content" class="woocommerce single-product"></div>
-            </div>
-        </div>
-    </div>
-    <script type="text/javascript">
-        function revslider_showDoubleJqueryError(sliderID) {
-            var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
-            errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
-            errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
-            errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
-            errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
-            jQuery(sliderID).show().html(errorMessage);
-        }
-    </script>
-    <script type="text/javascript">
-        var c = document.body.className;
-        c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
-        document.body.className = c;
-    </script>
-    <div class="mkd-login-register-holder">
-        <div class="mkd-login-register-content">
-            <ul>
-                <li><a href="#mkd-login-content">Login</a></li>
-                <li><a href="#mkd-register-content">Register</a></li>
-            </ul>
-            <div class="mkd-login-content-inner" id="mkd-login-content">
-                <div class="mkd-wp-login-holder">
-                    <div class="mkd-social-login-holder">
-                        <form method="post" class="mkd-login-form">
-                            <fieldset>
-                                <div>
-                                    <input type="text" name="user_login_name" id="user_login_name" placeholder="User Name" value="" required pattern=".{3,}" title="Three or more characters" />
-                                </div>
-                                <div>
-                                    <input type="password" name="user_login_password" id="user_login_password" placeholder="Password" value="" required />
-                                </div>
-                                <div class="mkd-lost-pass-remember-holder clearfix">
-                                    <span class="mkd-login-remember">
-                                        <input name="rememberme" value="forever" id="rememberme" type="checkbox" />
-                                        <label for="rememberme" class="mkd-checbox-label">Remember me</label>
-                                    </span>
-                                </div>
-                                <input type="hidden" name="redirect" id="redirect" value="">
-                                <div class="mkd-login-button-holder">
-                                    <a href="/my-account/lost-password/" class="mkd-login-action-btn" data-el="#mkd-reset-pass-content" data-title="Lost Password?">Lost Your password?</a>
-                                    <button type="submit" class="mkd-btn mkd-btn-small mkd-btn-solid"> <span class="mkd-btn-text">LOGIN</span> </button> <input type="hidden" id="mkd-login-security" name="mkd-login-security"
-                                        value="427af8adba" /><input type="hidden" name="_wp_http_referer" value="/" />
-                                </div>
-                            </fieldset>
-                        </form>
-                        <div class="mkd-membership-response-holder clearfix"></div>
-                        <script type="text/template" class="mkd-membership-response-template">
-                            <div class="mkd-membership-response <%= messageClass %> ">
-						<div class="mkd-membership-response-message">
-							<p><%= message %></p>
-						</div>
-					</div>
-				</script>
-                    </div>
-                </div>
-            </div>
-            <div class="mkd-register-content-inner" id="mkd-register-content">
-                <div class="mkd-wp-register-holder">
-                    <div class="mkd-social-register-holder">
-                        <form method="post" class="mkd-register-form">
-                            <fieldset>
-                                <div>
-                                    <input type="text" name="user_register_name" id="user_register_name" placeholder="User Name" value="" required pattern=".{3,}" title="Three or more characters" />
-                                </div>
-                                <div>
-                                    <input type="email" name="user_register_email" id="user_register_email" placeholder="Email" value="" required />
-                                </div>
-                                <div>
-                                    <input type="password" name="user_register_password" id="user_register_password" placeholder="Password" value="" required />
-                                </div>
-                                <div>
-                                    <input type="password" name="user_register_confirm_password" id="user_register_confirm_password" placeholder="Repeat Password" value="" required />
-                                </div>
-                                <div class="mkd-register-button-holder">
-                                    <button type="submit" class="mkd-btn mkd-btn-small mkd-btn-solid"> <span class="mkd-btn-text">REGISTER</span> </button><input type="hidden" id="mkd-register-security" name="mkd-register-security"
-                                        value="00d517d1c6" /><input type="hidden" name="_wp_http_referer" value="/" />
-                                </div>
-                            </fieldset>
-                        </form>
-                        <div class="mkd-membership-response-holder clearfix"></div>
-                        <script type="text/template" class="mkd-membership-response-template">
-                            <div class="mkd-membership-response <%= messageClass %> ">
-						<div class="mkd-membership-response-message">
-							<p><%= message %></p>
-						</div>
-					</div>
-				</script>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <script type="text/javascript">
-        function revslider_showDoubleJqueryError(sliderID) {
-            var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
-            errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
-            errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
-            errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
-            errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
-            jQuery(sliderID).show().html(errorMessage);
-        }
-    </script>
-    <script type="text/template" id="tmpl-variation-template">
-        <div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
-	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
-	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
-</script>
-    <script type="text/template" id="tmpl-unavailable-variation-template">
-        <p>Sorry, this product is unavailable. Please choose a different combination.</p>
-</script>
-    <script type='text/javascript' src='/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var yith_wcwl_l10n = {
-            "ajax_url": "\/wp-admin\/admin-ajax.php",
-            "redirect_to_cart": "no",
-            "multi_wishlist": "",
-            "hide_add_button": "1",
-            "is_user_logged_in": "",
-            "ajax_loader_url": "https:\/\/depot.qodeinteractive.com\/wp-content\/plugins\/yith-woocommerce-wishlist\/assets\/images\/ajax-loader.gif",
-            "remove_from_wishlist_after_add_to_cart": "yes",
-            "labels": {
-                "cookie_disabled": "We are sorry, but this feature is available only if cookies are enabled on your browser.",
-                "added_to_cart_message": "<div class=\"woocommerce-message\">Product correctly added to cart<\/div>"
-            },
-            "actions": {
-                "add_to_wishlist_action": "add_to_wishlist",
-                "remove_from_wishlist_action": "remove_from_wishlist",
-                "move_to_another_wishlist_action": "move_to_another_wishlsit",
-                "reload_wishlist_and_adding_elem_action": "reload_wishlist_and_adding_elem"
-            }
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.js'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var wpcf7 = {
-            "apiSettings": {
-                "root": "https:\/\/depot.qodeinteractive.com\/wp-json\/contact-form-7\/v1",
-                "namespace": "contact-form-7\/v1"
-            },
-            "cached": "1"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
-    <script type='text/javascript' src='/wp-includes/js/underscore.min.js'></script>
-    <script type='text/javascript' src='/wp-includes/js/jquery/ui/core.min.js'></script>
-    <script type='text/javascript' src='/wp-includes/js/jquery/ui/widget.min.js'></script>
-    <script type='text/javascript' src='/wp-includes/js/jquery/ui/tabs.min.js'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var mkdGlobalVars = {
@@ -2035,148 +1666,13 @@
         };
         /* ]]> */
     </script>
+
     <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules.min.js'></script>
-    <script type='text/javascript' src='/wp-content/plugins/mikado-membership/assets/js/membership.min.js'></script>
-    <script type='text/javascript' src='https://export.qodethemes.com/_toolbar/assets/js/rbt-modules.js?ver=5.2.7'></script>
-    <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var woocommerce_params = {
-            "ajax_url": "\/wp-admin\/admin-ajax.php",
-            "wc_ajax_url": "\/?wc-ajax=%%endpoint%%"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var wc_cart_fragments_params = {
-            "ajax_url": "\/wp-admin\/admin-ajax.php",
-            "wc_ajax_url": "\/?wc-ajax=%%endpoint%%",
-            "cart_hash_key": "wc_cart_hash_e3c5968203a687459a43ca780ebcecc4",
-            "fragment_name": "wc_fragments_e3c5968203a687459a43ca780ebcecc4",
-            "request_timeout": "5000"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var yith_qv = {
-            "ajaxurl": "\/wp-admin\/admin-ajax.php",
-            "loader": "https:\/\/depot.qodeinteractive.com\/wp-content\/plugins\/yith-woocommerce-quick-view\/assets\/image\/qv-loader.gif",
-            "is2_2": "",
-            "lang": ""
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='/wp-content/plugins/yith-woocommerce-quick-view/assets/js/frontend.min.js'></script>
     <script type='text/javascript' src='//depot.qodeinteractive.com/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js'></script>
-    <script type='text/javascript' src='/wp-includes/js/jquery/ui/accordion.min.js'></script>
-    <script type='text/javascript' src='/wp-includes/js/mediaelement/wp-mediaelement.min.js'></script>
-    <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/jquery.appear.js'></script>
-    <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/modernizr.min.js'></script>
-    <script type='text/javascript' src='/wp-includes/js/hoverIntent.min.js'></script>
-    <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/jquery.plugin.js'></script>
-    <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/jquery.countdown.min.js'></script>
+
     <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/owl.carousel.min.js'></script>
-    <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/parallax.min.js'></script>
-    <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/easypiechart.js'></script>
-    <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/jquery.waypoints.min.js'></script>
-    <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/Chart.min.js'></script>
-    <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/counter.js'></script>
-    <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/absoluteCounter.min.js'></script>
     <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/fluidvids.min.js'></script>
     <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/jquery.nicescroll.min.js'></script>
-    <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/ScrollToPlugin.min.js'></script>
-    <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/jquery.waitforimages.js'></script>
-    <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/jquery.easing.1.3.js'></script>
-    <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/jquery.multiscroll.min.js'></script>
-    <script type='text/javascript' src='/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js'></script>
-    <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/packery-mode.pkgd.min.js'></script>
-    <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/select2/select2.full.min.js'></script>
-    <script type='text/javascript' src='//maps.googleapis.com/maps/api/js?key=AIzaSyDChUm9Kel-9AMQqdZVXNNUqDYn__b2QpI&#038;ver=5.2.7'></script>
-    <script type='text/javascript' src='/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var mkdLike = {
-            "ajaxurl": "https:\/\/depot.qodeinteractive.com\/wp-admin\/admin-ajax.php"
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='/wp-content/themes/depot/assets/js/modules/plugins/like.js'></script>
-    <script type="text/javascript" src="https://static.zdassets.com/ekr/snippet.js?key=af3078fd-a5ae-40da-bee0-e589b98c8603&#038;ver=5.2.7" id="ze-snippet"></script>
-    <script type="text/javascript">
-        zE(function() {
-            $zopim(function() {
-                var isChatEnabled = sessionStorage.getItem("qodeChatEnabled"),
-                    appearingTime = 15000;
-
-                if (isChatEnabled !== "no") {
-                    setTimeout(function() {
-                        $zopim.livechat.window.show();
-
-                        $zopim.livechat.window.onHide(function() {
-                            sessionStorage.setItem("qodeChatEnabled", "no");
-                        });
-                    }, appearingTime);
-                }
-            });
-        });
-    </script>
-    <script type='text/javascript' src='/wp-includes/js/wp-embed.min.js'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var _wpUtilSettings = {
-            "ajax": {
-                "url": "\/wp-admin\/admin-ajax.php"
-            }
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='/wp-includes/js/wp-util.min.js'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var wc_add_to_cart_variation_params = {
-            "wc_ajax_url": "\/?wc-ajax=%%endpoint%%",
-            "i18n_no_matching_variations_text": "Sorry, no products matched your selection. Please choose a different combination.",
-            "i18n_make_a_selection_text": "Please select some product options before adding this product to your cart.",
-            "i18n_unavailable_text": "Sorry, this product is unavailable. Please choose a different combination."
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var wc_single_product_params = {
-            "i18n_required_rating_text": "Please select a rating",
-            "review_rating_required": "yes",
-            "flexslider": {
-                "rtl": false,
-                "animation": "slide",
-                "smoothHeight": true,
-                "directionNav": false,
-                "controlNav": "thumbnails",
-                "slideshow": false,
-                "animationSpeed": 500,
-                "animationLoop": false,
-                "allowOneSlide": false
-            },
-            "zoom_enabled": "",
-            "zoom_options": [],
-            "photoswipe_enabled": "",
-            "photoswipe_options": {
-                "shareEl": false,
-                "closeOnScroll": false,
-                "history": false,
-                "hideAnimationDuration": 0,
-                "showAnimationDuration": 0
-            },
-            "flexslider_enabled": ""
-        };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js'></script>
 </body>
 
 </html>
