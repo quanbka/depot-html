@@ -6,7 +6,7 @@
                     <div class="mkd-eh-item " data-item-class="" data-1280-1600="0px 85px 101px" data-1024-1280="0px 90px 101px 101px" data-768-1024="0px 60px 60px" data-600-768="0px 40px 40px"
                         data-480-600="0px" data-480="0px">
                         <div class="mkd-eh-item-inner">
-                            <div class="mkd-eh-item-content " style="padding: 0 0 30px">
+                            <div class="mkd-eh-item-content " style="padding: 0 0 60px">
                                 <div id="rev_slider_1_2_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery"
                                     style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
 
