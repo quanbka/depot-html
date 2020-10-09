@@ -105,8 +105,6 @@
     <link rel='stylesheet' id='mkd-font-elegant-css' href='/wp-content/themes/depot/assets/css/elegant-icons/style.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='mkd-linea-icons-css' href='/wp-content/themes/depot/assets/css/linea-icons/style.css' type='text/css' media='all' />
     <link rel='stylesheet' id='mkd-linear-icons-css' href='/wp-content/themes/depot/assets/css/linear-icons/style.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='mediaelement-css' href='/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='wp-mediaelement-css' href='/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='depot-mikado-woo-css' href='/wp-content/themes/depot/assets/css/woocommerce.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='depot-mikado-woo-responsive-css' href='/wp-content/themes/depot/assets/css/woocommerce-responsive.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='depot-mikado-style-dynamic-css' href='/wp-content/themes/depot/assets/css/style_dynamic.css' type='text/css' media='all' />
@@ -119,8 +117,6 @@
     <script type='text/javascript' src='/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
     <script type='text/javascript' src='/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'></script>
     <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js'></script>
-    <script type='text/javascript' src='/wp-includes/js/mediaelement/mediaelement-and-player.min.js'></script>
-    <script type='text/javascript' src='/wp-includes/js/mediaelement/mediaelement-migrate.min.js'></script>
     <noscript>
         <style>
             .woocommerce-product-gallery {
