@@ -894,289 +894,41 @@
 														<div class="mkd-plc-holder  mkd-normal-space  mkd-plc-nav-default-skin mkd-plc-pag-bellow-slider mkd-plc-pag-default-skin">
 															<div class="mkd-plc-outer mkd-owl-slider" data-number-of-items="3" data-enable-loop="yes" data-enable-autoplay="yes" data-slider-speed="4000" data-slider-speed-animation="600"
 																data-enable-navigation="yes" data-enable-pagination="no">
-																<div class="mkd-plc-item">
-																	<div class="mkd-plc-image-outer">
-																		<div class="mkd-plc-image">
-																			<img width="1100" height="730" src="/wp-content/uploads/2017/01/h1-product-2-1100x730.jpg" class="attachment-depot_landscape size-depot_landscape wp-post-image" alt="a" />
-																		</div>
-																		<div class="mkd-plc-text">
-																			<div class="mkd-plc-text-outer">
-																				<div class="mkd-plc-text-inner">
-																					<div class="mkd-yith-wcqv-holder"><a href="#" class="yith-wcqv-button" data-product_id="16"><span>QUICK LOOK</span></a></div>
-																					<div class="yith-wcwl-add-to-wishlist add-to-wishlist-16">
-																						<div class="yith-wcwl-add-button show" style="display:block">
-																							<a href="/minimal-home/?add_to_wishlist=16" rel="nofollow" data-product-id="16" data-product-type="simple" class="add_to_wishlist">
-																								Add to Wishlist</a>
-																							<img src="/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16"
-																								style="visibility:hidden" />
-																						</div>
-																						<div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
-																							<span class="feedback">Product added!</span>
-																							<a href="/wishlist/" rel="nofollow">
-																								Browse Wishlist </a>
-																						</div>
-																						<div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
-																							<span class="feedback">The product is already in the wishlist!</span>
-																							<a href="/wishlist/" rel="nofollow">
-																								Browse Wishlist </a>
-																						</div>
-																						<div style="clear:both"></div>
-																						<div class="yith-wcwl-wishlistaddresponse"></div>
-																					</div>
-																					<div class="clear"></div>
-																				</div>
-																			</div>
-																		</div>
-																		<a class="mkd-plc-link" itemprop="url" href="/product/pottery-vase/" title="Pottery Vase"></a>
-																	</div>
-																	<div class="mkd-plc-text-wrapper">
-																		<h4 itemprop="name" class="entry-title mkd-plc-title">
-																			<a itemprop="url" href="/product/pottery-vase/">Pottery Vase</a>
-																		</h4>
-																		<div class="mkd-plc-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>60</span></div>
-																		<div class="mkd-plc-add-to-cart">
-																			<a rel="nofollow" href="/minimal-home/?add-to-cart=16" data-quantity="1" data-product_id="16" data-product_sku="002"
-																				class="add_to_cart_button ajax_add_to_cart mkd-button">Add to cart</a>
-																		</div>
-																	</div>
-																</div>
-																<div class="mkd-plc-item">
-																	<div class="mkd-plc-image-outer">
-																		<div class="mkd-plc-image">
-																			<span class="mkd-plc-new-product">NEW</span>
-																			<span class="mkd-plc-onsale">-19%</span>
-																			<img width="1100" height="730" src="/wp-content/uploads/2017/01/h1-product-7-1100x730.jpg" class="attachment-depot_landscape size-depot_landscape wp-post-image" alt="a" />
-																		</div>
-																		<div class="mkd-plc-text">
-																			<div class="mkd-plc-text-outer">
-																				<div class="mkd-plc-text-inner">
-																					<div class="mkd-yith-wcqv-holder"><a href="#" class="yith-wcqv-button" data-product_id="25"><span>QUICK LOOK</span></a></div>
-																					<div class="yith-wcwl-add-to-wishlist add-to-wishlist-25">
-																						<div class="yith-wcwl-add-button show" style="display:block">
-																							<a href="/minimal-home/?add_to_wishlist=25" rel="nofollow" data-product-id="25" data-product-type="simple" class="add_to_wishlist">
-																								Add to Wishlist</a>
-																							<img src="/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16"
-																								style="visibility:hidden" />
-																						</div>
-																						<div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
-																							<span class="feedback">Product added!</span>
-																							<a href="/wishlist/" rel="nofollow">
-																								Browse Wishlist </a>
-																						</div>
-																						<div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
-																							<span class="feedback">The product is already in the wishlist!</span>
-																							<a href="/wishlist/" rel="nofollow">
-																								Browse Wishlist </a>
-																						</div>
-																						<div style="clear:both"></div>
-																						<div class="yith-wcwl-wishlistaddresponse"></div>
-																					</div>
-																					<div class="clear"></div>
-																				</div>
-																			</div>
-																		</div>
-																		<a class="mkd-plc-link" itemprop="url" href="/product/flower-vase/" title="Flower Vase"></a>
-																	</div>
-																	<div class="mkd-plc-text-wrapper">
-																		<h4 itemprop="name" class="entry-title mkd-plc-title">
-																			<a itemprop="url" href="/product/flower-vase/">Flower Vase</a>
-																		</h4>
-																		<div class="mkd-plc-price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>210</span></del> <ins><span
-																					class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>170</span></ins></div>
-																		<div class="mkd-plc-add-to-cart">
-																			<a rel="nofollow" href="/minimal-home/?add-to-cart=25" data-quantity="1" data-product_id="25" data-product_sku="007"
-																				class="add_to_cart_button ajax_add_to_cart mkd-button">Add to cart</a>
-																		</div>
-																	</div>
-																</div>
-																<div class="mkd-plc-item">
-																	<div class="mkd-plc-image-outer">
-																		<div class="mkd-plc-image">
-																			<span class="mkd-plc-onsale">-20%</span>
-																			<img width="1100" height="730" src="/wp-content/uploads/2017/01/h1-product-3-1100x730.jpg" class="attachment-depot_landscape size-depot_landscape wp-post-image" alt="a" />
-																		</div>
-																		<div class="mkd-plc-text">
-																			<div class="mkd-plc-text-outer">
-																				<div class="mkd-plc-text-inner">
-																					<div class="mkd-yith-wcqv-holder"><a href="#" class="yith-wcqv-button" data-product_id="15"><span>QUICK LOOK</span></a></div>
-																					<div class="yith-wcwl-add-to-wishlist add-to-wishlist-15">
-																						<div class="yith-wcwl-add-button show" style="display:block">
-																							<a href="/minimal-home/?add_to_wishlist=15" rel="nofollow" data-product-id="15" data-product-type="simple" class="add_to_wishlist">
-																								Add to Wishlist</a>
-																							<img src="/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16"
-																								style="visibility:hidden" />
-																						</div>
-																						<div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
-																							<span class="feedback">Product added!</span>
-																							<a href="/wishlist/" rel="nofollow">
-																								Browse Wishlist </a>
-																						</div>
-																						<div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
-																							<span class="feedback">The product is already in the wishlist!</span>
-																							<a href="/wishlist/" rel="nofollow">
-																								Browse Wishlist </a>
-																						</div>
-																						<div style="clear:both"></div>
-																						<div class="yith-wcwl-wishlistaddresponse"></div>
-																					</div>
-																					<div class="clear"></div>
-																				</div>
-																			</div>
-																		</div>
-																		<a class="mkd-plc-link" itemprop="url" href="/product/rose-holdback/" title="Rose Holdback"></a>
-																	</div>
-																	<div class="mkd-plc-text-wrapper">
-																		<h4 itemprop="name" class="entry-title mkd-plc-title">
-																			<a itemprop="url" href="/product/rose-holdback/">Rose Holdback</a>
-																		</h4>
-																		<div class="mkd-plc-price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>30</span></del> <ins><span
-																					class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>24</span></ins></div>
-																		<div class="mkd-plc-add-to-cart">
-																			<a rel="nofollow" href="/minimal-home/?add-to-cart=15" data-quantity="1" data-product_id="15" data-product_sku="003"
-																				class="add_to_cart_button ajax_add_to_cart mkd-button">Add to cart</a>
-																		</div>
-																	</div>
-																</div>
-																<div class="mkd-plc-item">
-																	<div class="mkd-plc-image-outer">
-																		<div class="mkd-plc-image">
-																			<span class="mkd-plc-new-product">NEW</span>
-																			<img width="1100" height="730" src="/wp-content/uploads/2017/01/h1-product-1-1100x730.jpg" class="attachment-depot_landscape size-depot_landscape wp-post-image" alt="a" />
-																		</div>
-																		<div class="mkd-plc-text">
-																			<div class="mkd-plc-text-outer">
-																				<div class="mkd-plc-text-inner">
-																					<div class="mkd-yith-wcqv-holder"><a href="#" class="yith-wcqv-button" data-product_id="10"><span>QUICK LOOK</span></a></div>
-																					<div class="yith-wcwl-add-to-wishlist add-to-wishlist-10">
-																						<div class="yith-wcwl-add-button show" style="display:block">
-																							<a href="/minimal-home/?add_to_wishlist=10" rel="nofollow" data-product-id="10" data-product-type="simple" class="add_to_wishlist">
-																								Add to Wishlist</a>
-																							<img src="/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16"
-																								style="visibility:hidden" />
-																						</div>
-																						<div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
-																							<span class="feedback">Product added!</span>
-																							<a href="/wishlist/" rel="nofollow">
-																								Browse Wishlist </a>
-																						</div>
-																						<div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
-																							<span class="feedback">The product is already in the wishlist!</span>
-																							<a href="/wishlist/" rel="nofollow">
-																								Browse Wishlist </a>
-																						</div>
-																						<div style="clear:both"></div>
-																						<div class="yith-wcwl-wishlistaddresponse"></div>
-																					</div>
-																					<div class="clear"></div>
-																				</div>
-																			</div>
-																		</div>
-																		<a class="mkd-plc-link" itemprop="url" href="/product/table-lamp/" title="Table Lamp"></a>
-																	</div>
-																	<div class="mkd-plc-text-wrapper">
-																		<h4 itemprop="name" class="entry-title mkd-plc-title">
-																			<a itemprop="url" href="/product/table-lamp/">Table Lamp</a>
-																		</h4>
-																		<div class="mkd-plc-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>240</span></div>
-																		<div class="mkd-plc-add-to-cart">
-																			<a rel="nofollow" href="/minimal-home/?add-to-cart=10" data-quantity="1" data-product_id="10" data-product_sku="001"
-																				class="add_to_cart_button ajax_add_to_cart mkd-button">Add to cart</a>
-																		</div>
-																	</div>
-																</div>
-																<div class="mkd-plc-item">
-																	<div class="mkd-plc-image-outer">
-																		<div class="mkd-plc-image">
-																			<img width="1100" height="730" src="/wp-content/uploads/2017/01/h1-product-6-1100x730.jpg" class="attachment-depot_landscape size-depot_landscape wp-post-image" alt="a" />
-																		</div>
-																		<div class="mkd-plc-text">
-																			<div class="mkd-plc-text-outer">
-																				<div class="mkd-plc-text-inner">
-																					<div class="mkd-yith-wcqv-holder"><a href="#" class="yith-wcqv-button" data-product_id="26"><span>QUICK LOOK</span></a></div>
-																					<div class="yith-wcwl-add-to-wishlist add-to-wishlist-26">
-																						<div class="yith-wcwl-add-button show" style="display:block">
-																							<a href="/minimal-home/?add_to_wishlist=26" rel="nofollow" data-product-id="26" data-product-type="simple" class="add_to_wishlist">
-																								Add to Wishlist</a>
-																							<img src="/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16"
-																								style="visibility:hidden" />
-																						</div>
-																						<div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
-																							<span class="feedback">Product added!</span>
-																							<a href="/wishlist/" rel="nofollow">
-																								Browse Wishlist </a>
-																						</div>
-																						<div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
-																							<span class="feedback">The product is already in the wishlist!</span>
-																							<a href="/wishlist/" rel="nofollow">
-																								Browse Wishlist </a>
-																						</div>
-																						<div style="clear:both"></div>
-																						<div class="yith-wcwl-wishlistaddresponse"></div>
-																					</div>
-																					<div class="clear"></div>
-																				</div>
-																			</div>
-																		</div>
-																		<a class="mkd-plc-link" itemprop="url" href="/product/deco-accessory/" title="Deco Accessory"></a>
-																	</div>
-																	<div class="mkd-plc-text-wrapper">
-																		<h4 itemprop="name" class="entry-title mkd-plc-title">
-																			<a itemprop="url" href="/product/deco-accessory/">Deco Accessory</a>
-																		</h4>
-																		<div class="mkd-plc-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>15</span></div>
-																		<div class="mkd-plc-add-to-cart">
-																			<a rel="nofollow" href="/minimal-home/?add-to-cart=26" data-quantity="1" data-product_id="26" data-product_sku="006"
-																				class="add_to_cart_button ajax_add_to_cart mkd-button">Add to cart</a>
-																		</div>
-																	</div>
-																</div>
-																<div class="mkd-plc-item">
-																	<div class="mkd-plc-image-outer">
-																		<div class="mkd-plc-image">
-																			<span class="mkd-plc-new-product">NEW</span>
-																			<img width="1100" height="730" src="/wp-content/uploads/2017/01/h1-product-8-1100x730.jpg" class="attachment-depot_landscape size-depot_landscape wp-post-image" alt="a" />
-																		</div>
-																		<div class="mkd-plc-text">
-																			<div class="mkd-plc-text-outer">
-																				<div class="mkd-plc-text-inner">
-																					<div class="mkd-yith-wcqv-holder"><a href="#" class="yith-wcqv-button" data-product_id="27"><span>QUICK LOOK</span></a></div>
-																					<div class="yith-wcwl-add-to-wishlist add-to-wishlist-27">
-																						<div class="yith-wcwl-add-button show" style="display:block">
-																							<a href="/minimal-home/?add_to_wishlist=27" rel="nofollow" data-product-id="27" data-product-type="simple" class="add_to_wishlist">
-																								Add to Wishlist</a>
-																							<img src="/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16"
-																								style="visibility:hidden" />
-																						</div>
-																						<div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;">
-																							<span class="feedback">Product added!</span>
-																							<a href="/wishlist/" rel="nofollow">
-																								Browse Wishlist </a>
-																						</div>
-																						<div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none">
-																							<span class="feedback">The product is already in the wishlist!</span>
-																							<a href="/wishlist/" rel="nofollow">
-																								Browse Wishlist </a>
-																						</div>
-																						<div style="clear:both"></div>
-																						<div class="yith-wcwl-wishlistaddresponse"></div>
-																					</div>
-																					<div class="clear"></div>
-																				</div>
-																			</div>
-																		</div>
-																		<a class="mkd-plc-link" itemprop="url" href="/product/basket-with-handles/" title="Basket With Handles"></a>
-																	</div>
-																	<div class="mkd-plc-text-wrapper">
-																		<h4 itemprop="name" class="entry-title mkd-plc-title">
-																			<a itemprop="url" href="/product/basket-with-handles/">Basket With Handles</a>
-																		</h4>
-																		<div class="mkd-plc-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>160</span></div>
-																		<div class="mkd-plc-add-to-cart">
-																			<a rel="nofollow" href="/minimal-home/?add-to-cart=27" data-quantity="1" data-product_id="27" data-product_sku="008"
-																				class="add_to_cart_button ajax_add_to_cart mkd-button">Add to cart</a>
-																		</div>
-																	</div>
-																</div>
+                                                                <?php
+                                                                    for ($i=0; $i < 10; $i++) {
+                                                                        ?>
+                                                                        <div class="mkd-plc-item">
+        																	<div class="mkd-plc-image-outer">
+        																		<div class="mkd-plc-image">
+        																			<img width="1100" height="730" src="/wp-content/uploads/2017/01/h1-product-2-1100x730.jpg" class="attachment-depot_landscape size-depot_landscape wp-post-image" alt="a" />
+        																		</div>
+        																		<div class="mkd-plc-text">
+        																			<div class="mkd-plc-text-outer">
+        																				<div class="mkd-plc-text-inner">
+
+        																					
+        																					<div class="clear"></div>
+        																				</div>
+        																			</div>
+        																		</div>
+        																		<a class="mkd-plc-link" itemprop="url" href="/product/pottery-vase/" title="Pottery Vase"></a>
+        																	</div>
+        																	<div class="mkd-plc-text-wrapper">
+        																		<h4 itemprop="name" class="entry-title mkd-plc-title">
+        																			<a itemprop="url" href="/product/pottery-vase/">Pottery Vase</a>
+        																		</h4>
+        																		<div class="mkd-plc-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>60</span></div>
+        																		<div class="mkd-plc-add-to-cart">
+        																			<a rel="nofollow" href="/minimal-home/?add-to-cart=16" data-quantity="1" data-product_id="16" data-product_sku="002"
+        																				class="add_to_cart_button ajax_add_to_cart mkd-button">Add to cart</a>
+        																		</div>
+        																	</div>
+        																</div>
+                                                                        <?php
+                                                                    }
+                                                                ?>
+
+
 															</div>
 														</div>
 													</div>
