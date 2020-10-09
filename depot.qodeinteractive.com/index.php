@@ -43,7 +43,7 @@
     </style>
 
     <link rel='stylesheet' id='depot-mikado-default-style-css' href='/wp-content/themes/depot/style.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='depot-mikado-modules-css' href='/wp-content/themes/depot/assets/css/modules-home.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='depot-mikado-modules-css' href='/wp-content/themes/depot/assets/css/modules.min.css' type='text/css' media='all' />
     <style id='depot-mikado-modules-inline-css' type='text/css'>
         /* generated in /home/qodeinteractive/depot/public_html/wp-content/themes/depot/framework/modules/footer/functions.php depot_mikado_footer_page_styles function */
         body.page-id-19 footer.mkd-page-footer .mkd-footer-top-holder {
@@ -92,12 +92,12 @@
     <link rel='stylesheet' id='mkd-font-elegant-css' href='/wp-content/themes/depot/assets/css/elegant-icons/style.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='mkd-linea-icons-css' href='/wp-content/themes/depot/assets/css/linea-icons/style.css' type='text/css' media='all' />
     <link rel='stylesheet' id='mkd-linear-icons-css' href='/wp-content/themes/depot/assets/css/linear-icons/style.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='depot-mikado-woo-css' href='/wp-content/themes/depot/assets/css/woocommerce-home.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='depot-mikado-woo-css' href='/wp-content/themes/depot/assets/css/woocommerce.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='depot-mikado-woo-responsive-css' href='/wp-content/themes/depot/assets/css/woocommerce-responsive.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='depot-mikado-style-dynamic-css' href='/wp-content/themes/depot/assets/css/style_dynamic.css' type='text/css' media='all' />
     <link rel='stylesheet' id='depot-mikado-modules-responsive-css' href='/wp-content/themes/depot/assets/css/modules-responsive.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='depot-mikado-style-dynamic-responsive-css' href='/wp-content/themes/depot/assets/css/style_dynamic_responsive.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='js_composer_front-css' href='/wp-content/plugins/js_composer/assets/css/js_composer-home.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='js_composer_front-css' href='/wp-content/plugins/js_composer/assets/css/js_composer.min.css' type='text/css' media='all' />
 
     <script type='text/javascript' src='/wp-includes/js/jquery/jquery.js'></script>
     <script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js'></script>
