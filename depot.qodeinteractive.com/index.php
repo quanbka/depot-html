@@ -24,7 +24,6 @@
             padding: 0 !important;
         }
     </style>
-    <link rel='stylesheet' id='wp-block-library-css' href='/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='wc-block-style-css' href='/wp-content/plugins/woocommerce/assets/css/blocks/style.css' type='text/css' media='all' />
     <link rel='stylesheet' id='jquery-selectBox-css' href='/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css' type='text/css' media='all' />
     <link rel='stylesheet' id='yith-wcwl-font-awesome-css' href='/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.min.css' type='text/css' media='all' />
@@ -104,7 +103,6 @@
         }
     </style>
     <link rel='stylesheet' id='mkd-font-elegant-css' href='/wp-content/themes/depot/assets/css/elegant-icons/style.min.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='mkd-ion-icons-css' href='/wp-content/themes/depot/assets/css/ion-icons/css/ionicons.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='mkd-linea-icons-css' href='/wp-content/themes/depot/assets/css/linea-icons/style.css' type='text/css' media='all' />
     <link rel='stylesheet' id='mkd-linear-icons-css' href='/wp-content/themes/depot/assets/css/linear-icons/style.css' type='text/css' media='all' />
     <link rel='stylesheet' id='mediaelement-css' href='/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
@@ -1528,7 +1526,7 @@
 											</div>
 										</div>
 									</div>
-									
+
 								</div>
 							</div>
 						</div>
