@@ -823,7 +823,7 @@
 														</div>
 														<a itemprop="url" class="mkd-banner-link" href="/product-category/home-decor/" target="_blank"></a>
 													</div>
-													<div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
+													<div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner"></span></div>
 												</div>
 											</div>
 										</div>
@@ -844,7 +844,7 @@
 														</div>
 														<a itemprop="url" class="mkd-banner-link" href="/product-category/home-decor/vases/" target="_blank"></a>
 													</div>
-													<div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
+													<div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner"></span></div>
 													<div class="mkd-banner-holder">
 														<div class="mkd-banner-image">
 															<img width="800" height="564" src="/wp-content/uploads/2017/01/h2-banner-3.jpg" class="attachment-full size-full" alt="a"
@@ -859,7 +859,7 @@
 														</div>
 														<a itemprop="url" class="mkd-banner-link" href="/product-category/accessories/hardwoods-accessories/" target="_blank"></a>
 													</div>
-													<div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
+													<div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner"></span></div>
 												</div>
 											</div>
 										</div>
@@ -880,7 +880,7 @@
 																<div class="mkd-eh-item-inner">
 																	<div class="mkd-eh-item-content mkd-eh-custom-408987" style="padding: 0px 21%">
 																		<div class="mkd-section-title-holder" style="text-align: center">
-																			<p class="mkd-st-text" style="font-size: 30px;line-height: 45px">Marketing is not selling. Marketing is building a brand in the mind of the prospect.</p>
+																			<p class="mkd-st-text" style="font-size: 15px;line-height: 45px">Marketing is not selling. Marketing is building a brand in the mind of the prospect.</p>
 																		</div>
 																	</div>
 																</div>
@@ -942,7 +942,6 @@
 										<div class="wpb_column vc_column_container vc_col-sm-12">
 											<div class="vc_column-inner">
 												<div class="wpb_wrapper">
-													<div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
 													<div class="wpb_text_column wpb_content_element ">
 														<div class="wpb_wrapper">
 															<h3 style="text-align: center;"><span style="color: #080808;">WHAT THEY&#8217;RE SAYING</span></h3>
